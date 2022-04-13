@@ -30,7 +30,7 @@ int main() {
     char *ptr;
     char buffer[BUFFER_SIZE];
 
-    // initialize flags to 0
+    // initialize the flags to 0
     parentGo = 0;
     childGo = 0;
 
