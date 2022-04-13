@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Synchronization_and_Shared_Memory",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "process-synchronization::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-process-synchronization-Debug-ec5a5bdca1ee3ca5f3a2.json",
+					"name" : "process-synchronization",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sighandler-example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sighandler-example-Debug-2f2b8a0eac635bcd3d93.json",
+					"name" : "sighandler-example",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/tateosborne/Documents/UVM/Junior/CS201 Operating Systems/Synchronization-and-Shared-Memory/cmake-build-debug",
+		"source" : "/Users/tateosborne/Documents/UVM/Junior/CS201 Operating Systems/Synchronization-and-Shared-Memory"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
