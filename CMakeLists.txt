@@ -5,5 +5,3 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(process-synchronization
         processes.tosborne.c)
-add_executable(sighandler-example
-        sighandler-example.c)

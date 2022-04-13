@@ -1,8 +1,5 @@
 # ninja log v5
-128	234	1646425502896891986	process-synchronization	f83af10ce2484fcd
-1	127	1646425502789358665	CMakeFiles/process-synchronization.dir/processes.tosborne.c.o	3656205e4fdfb2da
-242	450	1646261237462937740	sighandler-example	cdacba3401487397
-0	242	1646261237256799099	CMakeFiles/sighandler-example.dir/sighandler-example.c.o	37adb12c32b6cfec
-442	584	1646167245249761212	sighandler	4461fcadea6741c1
-0	277	1648521655815899683	CMakeFiles/process-synchronization.dir/processes.tosborne.c.o	1511a12fca2f052d
 278	415	1648521655951422307	process-synchronization	f82396fc224f3fc0
+0	277	1648521655815899683	CMakeFiles/process-synchronization.dir/processes.tosborne.c.o	1511a12fca2f052d
+242	450	1646261237462937740	sighandler-example	cdacba3401487397
+442	584	1646167245249761212	sighandler	4461fcadea6741c1
